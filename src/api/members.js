@@ -1,7 +1,7 @@
 // src/api/members.js
 import axios from 'axios';
 
-const API_URL = 'https://json-server-git-main-rks-projects-29f40e45.vercel.app';
+const API_URL = 'https://json-server-beige-gamma.vercel.app';
 
 export const fetchMembers = async () => {
   const response = await axios.get(`${API_URL}/members`);
