@@ -1,0 +1,115 @@
+{
+  "members": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "123-456-7890",
+      "joinDate": "2023-01-15",
+      "membershipType": "Premium",
+      "expiryDate": "2024-01-15",
+      "trainer": "Sarah Johnson",
+      "freeze": false,
+      "guestPasses": 2
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "phone": "098-765-4321",
+      "joinDate": "2023-02-20",
+      "membershipType": "Normal",
+      "expiryDate": "2023-08-20",
+      "trainer": "",
+      "freeze": false,
+      "guestPasses": 0
+    },
+    {
+      "id": "3",
+      "name": "Michael Lee",
+      "email": "michael@example.com",
+      "phone": "555-222-1111",
+      "joinDate": "2023-03-10",
+      "membershipType": "Premium",
+      "expiryDate": "2024-03-10",
+      "trainer": "David Kim",
+      "freeze": false,
+      "guestPasses": 3
+    },
+    {
+      "id": "4",
+      "name": "Emily Davis",
+      "email": "emily@example.com",
+      "phone": "444-999-2222",
+      "joinDate": "2023-04-05",
+      "membershipType": "Normal",
+      "expiryDate": "2023-10-05",
+      "trainer": "",
+      "freeze": true,
+      "guestPasses": 1
+    },
+    {
+      "id": "5",
+      "name": "Chris Johnson",
+      "email": "chris@example.com",
+      "phone": "222-888-3333",
+      "joinDate": "2023-05-12",
+      "membershipType": "Premium",
+      "expiryDate": "2024-05-12",
+      "trainer": "Sarah Johnson",
+      "freeze": false,
+      "guestPasses": 5
+    },
+    {
+      "id": "7",
+      "name": "Daniel Brown",
+      "email": "daniel@example.com",
+      "phone": "666-777-8888",
+      "joinDate": "2023-07-25",
+      "membershipType": "Premium",
+      "expiryDate": "2024-07-25",
+      "trainer": "Emma Wilson",
+      "freeze": false,
+      "guestPasses": 4
+    },
+    {
+      "id": "8930",
+      "name": "kumar c",
+      "email": "rrk51608@gmail.com",
+      "phone": "07502221231",
+      "joinDate": "2025-08-20",
+      "membershipType": "VIP",
+      "expiryDate": "2026-08-20",
+      "trainer": "David Kim",
+      "freeze": false,
+      "guestPasses": 2
+    },
+    {
+      "id": "85bc",
+      "name": "kumar c",
+      "email": "rrk51608@gmail.com",
+      "phone": "07502221231",
+      "joinDate": "2025-08-20",
+      "membershipType": "Normal",
+      "expiryDate": "2026-08-20",
+      "trainer": "Sarah Johnson",
+      "freeze": false,
+      "guestPasses": 0
+    }
+  ],
+  "deleteHistory": [
+    {
+      "id": "6",
+      "name": "Sophia Miller",
+      "email": "sophia@example.com",
+      "phone": "111-333-4444",
+      "joinDate": "2023-06-18",
+      "membershipType": "Normal",
+      "expiryDate": "2023-12-18",
+      "trainer": "",
+      "freeze": false,
+      "guestPasses": 0,
+      "deletionDate": "20/8/2025, 8:39:07 pm"
+    }
+  ]
+}

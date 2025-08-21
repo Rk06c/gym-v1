@@ -1,0 +1,22 @@
+
+
+import './App.css'
+import Navbar from './components/Navbar'
+
+import MemberTable from './components/MemberTable'
+import DeleteHistoryPanel from './components/DeleteHistoryPanel'
+
+function App() {
+
+
+  return (
+    <>
+     <Navbar/>
+    
+     <MemberTable/>
+     <DeleteHistoryPanel/>
+    </>
+  )
+}
+
+export default App
